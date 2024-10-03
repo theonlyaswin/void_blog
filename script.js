@@ -38,6 +38,7 @@ themeIcon.addEventListener('click', () => {
 });
 
 
+
 // Fetch blogs from Dev.to API
 async function fetchBlogs() {
     try {
